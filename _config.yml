@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
+title: Enjoy coding, Enjoy life
+subtitle: 
+description: '程序员 java 后端'
+keywords: '程序员 java 后端'
+author: 吴生涛
 language: en
 timezone: ''
 
@@ -98,11 +98,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: stun
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
    type: git
-   repo: https://github.com/wushengtao/wushengtao.github-io
+   repo: git@github.com:wushengtao/wushengtao.github.io.git
    branch: master
